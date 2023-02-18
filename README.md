@@ -25,4 +25,7 @@
     </a>
     <br><h1 align="centre"><b>Visitors Count</br></h1>  
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{fhecout}/count.svg" /></p>
+    ![Snake animation](https://github.com/fhecout/fhecout/blob/output/github-contribution-grid-snake.svg)
+
 </div>
+![Snake animation](https://github.com/fhecout/fhecout/blob/output/github-contribution-grid-snake.svg)
