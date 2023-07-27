@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&multiline=true&width=435&height=100&lines=Ol%C3%A1+Guys%2C+tudo+bom%3F;Me+chamo+Felipe+Couto.;Obrigado+por+acessar+no+meu+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3500&pause=500&color=F7F7F7&center=true&multiline=true&width=435&height=100&lines=Ol%C3%A1+Guys%2C+tudo+bom%3F;Me+chamo+Felipe+Couto.;Obrigado+por+acessar+no+meu+Github!)](https://git.io/typing-svg)
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=fhecout&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Felipe Couto github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fhecout&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
