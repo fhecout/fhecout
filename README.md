@@ -9,8 +9,6 @@
     <img align="left" height="350" alt="coding-time" src="https://user-images.githubusercontent.com/103007640/219743582-1a7fc88d-3345-4b35-a80f-7395e68e20fa.gif">
     <h1 align="center">Tecnologias que estudo 📚</h1>
     <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="50" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="40" width="50" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="50" width="50" alt="delphi-icon" src="5968252.png">
    </div>
