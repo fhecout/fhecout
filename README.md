@@ -9,9 +9,9 @@
     <img align="left" height="350" alt="coding-time" src="https://user-images.githubusercontent.com/103007640/219743582-1a7fc88d-3345-4b35-a80f-7395e68e20fa.gif">
     <h1 align="center">Tecnologias que estudo 📚</h1>
     <img align="center" height="40" width="50" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" height="40" width="50" alt="js-icon"  src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F4518857%2Fpython_icon&psig=AOvVaw0qcaB0ckLOo3LZK0PcrBiV&ust=1696447157073000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID4uKPM2oEDFQAAAAAdAAAAABAE">
     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="50" width="50" alt="delphi-icon" src="5968252.png">
+    <img align="center" height="50" width="50" alt="python-icon" src="4518857_python_icon">
    </div>
    <h1 align="center">Minhas Redes Sociais 💻</h1>
     <a href = "mailto: feliperafaeldocouto@hotmail.com">
