@@ -10,7 +10,7 @@
     <h1 align="center">Tecnologias que estudo 📚</h1>
     <img align="center" height="40" width="50" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
     <img align="center" height="50" width="50" alt="delphi-icon" src="5968252.png">
-    <img align="center" height="50" width="50" alt="python-icon" src="4518857_python_icon">
+    <img align="center" height="50" width="50" alt="python-icon" src="4518857_python_icon.png">
    </div>
    <h1 align="center">Minhas Redes Sociais 💻</h1>
     <a href = "mailto: feliperafaeldocouto@hotmail.com">
