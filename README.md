@@ -4,7 +4,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor Backend focado em APIs, banco de dados e automações.
+Sou Desenvolvedor Backend com foco na criação de APIs, automações e soluções eficientes para manipulação e organização de dados.
+
+Tenho interesse em desenvolver aplicações bem estruturadas, escaláveis e de fácil manutenção, utilizando tecnologias como Node.js, Python, JavaScript e PostgreSQL. Busco sempre aprimorar minhas habilidades, aplicar boas práticas de desenvolvimento e construir projetos que resolvam problemas reais.
 
 ---
 
