@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Felipe%20Couto&fontSize=60&fontColor=D6C9FF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end%20%7C%20APIs%20%E2%80%A2%20Automa%C3%A7%C3%B5es%20%E2%80%A2%20IA&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Back-end;Node.js+%7C+Python+%7C+PostgreSQL;Explorando+IA+e+Agentes+Aut%C3%B4nomos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Back-end;Node.js+%7C+TypeScript+%7C+Python+%7C+PostgreSQL;Explorando+IA+e+Agentes+Aut%C3%B4nomos" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -25,7 +25,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **desenvolvedor back-end** focado em construir **APIs, automações e soluções eficientes** para manipulação e organização de dados. Trabalho principalmente com **Node.js, Python, JavaScript e PostgreSQL**, buscando escrever código bem estruturado, escalável e fácil de manter.
+Sou **desenvolvedor back-end** focado em construir **APIs, automações e soluções eficientes** para manipulação e organização de dados. Trabalho principalmente com **Node.js, TypeScript, Python, JavaScript e PostgreSQL**, buscando escrever código bem estruturado, escalável e fácil de manter.
 
 Nos últimos meses venho me aprofundando em **IA aplicada** — desde os fundamentos de machine learning e NLP até engenharia de prompt e protocolos de integração de agentes (MCP) — e aplicando esse conhecimento em projetos próprios de automação e agentes locais.
 
@@ -42,11 +42,11 @@ Nos últimos meses venho me aprofundando em **IA aplicada** — desde os fundame
 
 **Linguagens**
 
-<img src="https://skillicons.dev/icons?i=js,py,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,py,nodejs&theme=dark" />
 
 **Backend & Dados**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,sqlite&theme=dark" />
 
 **Ferramentas & DevOps**
 
@@ -85,7 +85,7 @@ Agente de IA que roda localmente via **Ollama**, com interface desktop em **Elec
 
 | | |
 |---|---|
-| **Stack** | Node.js 22 (ESM), Ollama, Express 5, React 19 + Vite, Electron 42, SQLite nativo |
+| **Stack** | Node.js 22 (ESM), TypeScript, Ollama, Express 5, React 19 + Vite, Electron 42, SQLite nativo |
 | **Destaques** | Tool calling modular, streaming via SSE, Agent Team com subagentes especializados (Architect, Security, Research, Executor, Critic, Decision) |
 | **Segurança** | "Safe Mode" para bloquear operações destrutivas até confirmação explícita |
 | **Observabilidade** | "Black Box" em SQLite registrando runs, eventos e tool calls |
@@ -113,7 +113,7 @@ O projeto inclui um "Problem Radar" que varre o código em busca de arquivos gra
 
 Atuação no desenvolvimento e manutenção de APIs REST e sistemas backend, com foco em integrações, automações, correções evolutivas, otimização de performance e suporte técnico a aplicações em produção.
 
-Desenvolvimento de APIs em Node.js e Dart, além da implementação de integrações com serviços externos e meios de pagamento, incluindo integração com SiTef.
+Desenvolvimento de APIs em Node.js, TypeScript e Dart, além da implementação de integrações com serviços externos e meios de pagamento, incluindo integração com SiTef.
 
 Participação direta na criação de um sistema interno de atendimento via WhatsApp API, chamado **TICKET**, utilizado por toda a empresa para centralizar solicitações de clientes, dúvidas, erros e chamados técnicos. A solução permitia que o cliente entrasse em contato pelo WhatsApp, o suporte ou a gerência realizasse a triagem e, quando necessário, encaminhasse o chamado para o time de desenvolvimento.
 
@@ -123,7 +123,7 @@ Além disso, presta apoio direto ao time de suporte e atendimento ao cliente na 
 
 Também atuou no aprimoramento e na inclusão de novas funcionalidades no sistema principal da empresa, desenvolvido em **Delphi**.
 
-`AWS` `Python` `Node.js` `Dart` `Flutter` `Delphi`
+`AWS` `Python` `Node.js` `TypeScript` `Dart` `Flutter` `Delphi`
 
 </details>
 
@@ -138,9 +138,9 @@ Desenvolvimento de aplicativos desktop e mobile sob demanda, com foco em soluç�
 
 Criação de automações com IA integradas ao WhatsApp utilizando **N8N**, conectando fluxos de atendimento e processos a modelos de IA.
 
-Desenvolvimento de sistemas backend em **Express** e **Python**, além da criação de sites institucionais e landing pages.
+Desenvolvimento de sistemas backend em **Express**, **TypeScript** e **Python**, além da criação de sites institucionais e landing pages.
 
-`Node.js` `Express` `Python` `N8N` `Automação` `IA`
+`Node.js` `TypeScript` `Express` `Python` `N8N` `Automação` `IA`
 
 </details>
 
@@ -225,7 +225,7 @@ Aprendendo:
   - Arquitetura de agentes de IA e protocolos MCP
   - Engenharia de prompt aplicada
   - Segurança de APIs em Node.js
-  - Boas práticas de escalabilidade em Node.js
+  - Boas práticas de escalabilidade em Node.js e TypeScript
 
 Construindo:
   - Nautilus (agente de IA local-first)
